@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "mocha": "^10.3.0",
+    "pactum": "^3.6.1"
+  },
+  "scripts": {
+    "pet": "mocha pet.js",
+    "test": "mocha test.js"
+  }
+}
